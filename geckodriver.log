@@ -1,0 +1,13 @@
+1670435716399	geckodriver	INFO	Listening on 127.0.0.1:55493
+1670435716733	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "55494" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/x_/j1l5jym91vz66wk9xpfhxcd40000gn/T/rust_mozprofileDTWNff"
+2022-12-07 12:55:22.240 plugin-container[6374:220521] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-07 12:55:22.240 plugin-container[6374:220521] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-12-07 12:55:22.479 plugin-container[6374:220521] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-07 12:55:22.479 plugin-container[6374:220521] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-12-07 12:55:22.480 plugin-container[6374:220554] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-07 12:55:22.480 plugin-container[6374:220554] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://127.0.0.1:55494
+DevTools listening on ws://127.0.0.1:55494/devtools/browser/6969768f-3406-423f-8188-ce185de641b1
+[2022-12-07T17:55:44Z ERROR viaduct::backend::ffi] Missing HTTP status
+[2022-12-07T17:55:44Z ERROR viaduct::backend::ffi] Missing HTTP status
+[2022-12-07T17:55:44Z ERROR viaduct::backend::ffi] Missing HTTP status
